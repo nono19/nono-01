@@ -2,3 +2,5 @@ test isi git dari github
 - test 
 - test test
 - test text baris ketiga
+- weh beda, yaudahlah ya masuk aja ke empat
+- tambah lima deh
